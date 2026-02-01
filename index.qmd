@@ -1,7 +1,11 @@
 ---
 title: "Amostragem"
+author:
+  - Nielson Alexandre de Almeida Dantas Junior
+  - Wericky Barbosa de Melo
 message: false
 warning: false
+lang: pt
 ---
 
 
